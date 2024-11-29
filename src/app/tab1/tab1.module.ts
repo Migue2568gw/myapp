@@ -7,7 +7,7 @@ import { ExploreContainerComponentModule } from '../explore-container/explore-co
 
 import { Tab1PageRoutingModule } from './tab1-routing.module';
 
-// esto es una pruebaaa
+// esto es una pruebaaa 2
 
 @NgModule({
   imports: [
